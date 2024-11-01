@@ -157,8 +157,8 @@
         }
     ],
     "url": "https://github.com/dnd-pt-br/dnd-players-handbook-pt-br",
-    "manifest": "https://raw.githubusercontent.com/dnd-pt-br/dnd-players-handbook-pt-br/refs/heads/main/module.json",
-    "download": "https://github.com/dnd-pt-br/dnd-players-handbook-pt-br/archive/refs/heads/main.zip",
+    "manifest": "https://raw.githubusercontent.com/dnd-pt-br/dnd-players-handbook-pt-br/main/module.json",
+    "download": "https://github.com/dnd-pt-br/dnd-players-handbook-pt-br/archive/main.zip",
     "protected": false,
     "changelog": "",
     "flags": {
