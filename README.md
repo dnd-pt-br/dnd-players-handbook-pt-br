@@ -1,0 +1,1 @@
+<img src="assets/journal-art/phb-2024-cover.webp">
