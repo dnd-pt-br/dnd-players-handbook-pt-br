@@ -156,8 +156,8 @@
             ]
         }
     ],
-    "url": "",
-    "manifest": "",
+    "url": "https://github.com/dnd-pt-br/dnd-players-handbook-pt-br",
+    "manifest": "https://raw.githubusercontent.com/dnd-pt-br/dnd-players-handbook-pt-br/refs/heads/main/module.json",
     "protected": false,
     "changelog": "",
     "flags": {
